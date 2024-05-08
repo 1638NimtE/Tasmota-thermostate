@@ -19,13 +19,15 @@
 ### clear 
     IR red
 
+Console command
+
 ### Termostate work status
     ThermostatModeSet 1
 0 - off
 
 1 - on
 
-    ControllerModeSet 2
+    ControllerModeSet 0
 0 - Hybrid (default)
 
 1 - PI 
