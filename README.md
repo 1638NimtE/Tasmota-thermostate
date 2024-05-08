@@ -6,7 +6,7 @@
 ## Changed for compilate firmware.bin:
 
 ### add functions
-  BMP180
+    BMP180
   
   AHT10
   
