@@ -5,7 +5,7 @@
   
 ## Changed for compilate firmware.bin:
 
-### add functions
+#### add functions
     BMP180
     AHT10
     AHT20  - correct driver
@@ -16,7 +16,7 @@
     PING
     MP3 player
 
-### clear 
+#### clear 
     IR red
 
 ## Console command
