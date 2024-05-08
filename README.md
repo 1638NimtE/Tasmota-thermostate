@@ -19,9 +19,9 @@
 ### clear 
     IR red
 
-Console command
+## Console command
 
-### Termostate work status
+#### Termostate work status
     ThermostatModeSet 1
 0 - off
 
@@ -34,5 +34,5 @@ Console command
 
 2 - Ramp-Up
 
-### Rule
+#### Rule
     ON Power1#boot DO Backlog sensorinputset 1;controllermodeset 2;thermostatmodeset 1;temptargetset %mem1% ENDON
