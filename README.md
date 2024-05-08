@@ -35,5 +35,5 @@
 
 2 - Ramp-Up
 
-#### Rule
+## Rule boot termostate
     ON Power1#boot DO Backlog sensorinputset 1;controllermodeset 2;thermostatmodeset 1;temptargetset %mem1% ENDON
