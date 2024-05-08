@@ -1,5 +1,11 @@
 # Tasmota-termostate
-## add to firmware
+
+1. Ready file for upload to ESP8266  (Tasmota v13.04)  - [firmware.bin](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/firmware.bin)
+2. Upload used [Tasmotizer](https://github.com/tasmota/tasmotizer)
+  
+## Changed for compilate firmware.bin:
+
+### add functions
 BMP180
 
 AHT10
@@ -18,6 +24,6 @@ PING
 
 MP3 player
 
-## clear from firmware
+### clear 
 
 IR red
