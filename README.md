@@ -1,5 +1,5 @@
 # Tasmota-termostate
-## add   .bin
+## add to firmware
 BMP180
 
 AHT10
@@ -18,6 +18,6 @@ PING
 
 MP3 player
 
-## clear  .bin
+## clear from firmware
 
 IR red
