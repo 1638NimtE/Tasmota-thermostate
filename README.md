@@ -17,5 +17,4 @@
     MP3 player
 
 ### clear 
-  
-  IR red
+    IR red
