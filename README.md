@@ -1,6 +1,6 @@
 # Tasmota-termostate
 
-1. Ready file for upload to ESP8266  (Tasmota v13.04)  - [firmware.bin](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/firmware.bin)
+1. Ready file for upload to ESP8266  (Tasmota v13.4 develop)  - [firmware.bin](https://github.com/1638NimtE/Tasmota_AHT20/blob/main/firmware.bin)
 2. To load into the board, use the [Tasmotizer](https://github.com/tasmota/tasmotizer)
   
 ## Changed for compilate firmware.bin:
