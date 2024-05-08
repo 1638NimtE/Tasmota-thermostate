@@ -21,12 +21,13 @@
 
 ## Console command
 
-#### Termostate work status
+#### Termostate activate
     ThermostatModeSet 1
 0 - off
 
 1 - on
 
+#### control strategy
     ControllerModeSet 0
 0 - Hybrid (default)
 
