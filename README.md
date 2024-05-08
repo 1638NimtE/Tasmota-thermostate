@@ -7,7 +7,9 @@
 
 ### add functions
   BMP180
+  
   AHT10
+  
   AHT20  - correct driver
   TM1637
   TM1638
