@@ -22,11 +22,15 @@
 ### Termostate work status
     ThermostatModeSet 1
 0 - off
+
 1 - on
-2 - 
+
     ControllerModeSet 2
 0 - Hybrid (default)
+
 1 - PI 
+
 2 - Ramp-Up
+
 ### Rule
     ON Power1#boot DO Backlog sensorinputset 1;controllermodeset 2;thermostatmodeset 1;temptargetset %mem1% ENDON
