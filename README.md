@@ -1,10 +1,10 @@
 # Tasmota-termostate
-## add
+## add   .bin
 BMP180
 
 AHT10
 
-AHT20 исправленный драйвер
+AHT20  - correct driver
 
 TM1637
 
@@ -18,6 +18,6 @@ PING
 
 MP3 player
 
-## clear
+## clear  .bin
 
 IR red
